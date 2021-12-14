@@ -5,9 +5,10 @@ public class Main {
         System.out.println("==== Imprime Enteros =====");
 
         for (int i = 0; i < 20; i++) {
-            System.out.println( i + 1 );
+            System.out.println( i + 1 + ";");
         }
 
+        System.out.println("Copyright: Arturo Candela");
         System.out.println("==========================");
 
     }
